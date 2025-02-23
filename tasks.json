@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "title": "Learn Express",
+        "description": "Understand routing and middleware"
+    },
+    {
+        "id": 2,
+        "title": "Build a To-Do App",
+        "description": "Use Node.js, Express, and EJS"
+    }
+]
